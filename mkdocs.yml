@@ -1,0 +1,8 @@
+site_name: "Comet"
+site_description: "Comet"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
